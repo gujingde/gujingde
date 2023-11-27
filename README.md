@@ -1,6 +1,6 @@
 # 👋teamB-4 HOW DO WE DID
 ## 🌱Basic Task 1: Pick-n-Place Criterion
-
+  ![image](picture or gif url)
 ## 🌱Basic Task 2: Stack-up Criterion
 ## 🌱Task 3
 
